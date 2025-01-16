@@ -1,0 +1,19 @@
+[
+    {
+      "role": "Fullstack Developer",
+      "organisation": "Orinson Technologies",
+      "startDate": "Dec, 2024",
+      "endDate": "Jan, 2025",
+      "experiences": ["Worked on projects based on MERN Stack and database Management in Backend systems"],
+      "imageSrc": "history/orinsonlogo-removebg-preview (1).png"
+    },
+    {
+      "role": "OpenCV Engineer",
+      "organisation": "Tata Steel",
+      "startDate": "Jan, 2025",
+      "endDate": "March, 2025",
+      "experiences": ["Worked on quality detection of steel rods using OpenCV and Machine Learning algorithms"],
+      "imageSrc": "history/tatasteellogo-removebg-preview.png" 
+    }
+
+]

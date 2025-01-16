@@ -1,0 +1,43 @@
+[
+    {
+      "title": "Finacely",
+      "imageSrc": "projects/project.png",
+      "description": "Financely is a financial management app for tracking, categorizing, sorting, searching, and importing/exporting transactions with real-time updates.",
+      "skills": ["React", "Express", "Firebase"],
+      "demo": "https://financely-u3af-pjb5qsk5f-shreya-samals-projects.vercel.app/",
+      "source": "https://github.com/shre167/financely"
+    },
+    {
+      "title": "Blog App",
+      "imageSrc": "projects/project.png",
+      "skills": ["React", "Express", "Node", "MongoDB"],
+      "description": "BLog-It is a platform for users to create, edit, and manage posts with images, comment on posts, and securely authenticate for a personalized experience.",
+      "demo": "https://blog-it-wine.vercel.app/",
+      "source": "https://github.com/shre167/BLOG-APP"
+    },
+    {
+      "title": "Chatbot AI",
+      "imageSrc": "projects/project.png",
+      "description": "Gemini Pro Chatbot AI is an interactive AI-powered chatbot that engages users in conversations, provides responses, and enhances user interaction with a seamless chat experience.",
+      "skills": ["Python"],
+      "demo": "https://gemini-pro-chatbotai.streamlit.app/",
+      "source": "https://github.com/shre167/gemini_pro_chatbotrec_ai"
+    },
+    {
+        "title": "CodePen",
+        "imageSrc": "projects/project.png",
+        "description": "CodePen Clone is an interactive platform for writing, editing, and previewing code in real time.",
+        "skills": ["React", "HTML", "CSS"],
+        "demo": "https://code-pen-tau.vercel.app/",
+        "source": "https://github.com/shre167/CodePen"
+      },
+      {
+        "title": "Pomodoro",
+        "imageSrc": "projects/project.png",
+        "description": "Built a Pomodoro Timer to manage work and break intervals with customizable sessions and progress tracking.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT"],
+        "demo": "https://pomodoro-omega-dun.vercel.app/",
+        "source": "https://github.com/shre167/Pomodoro-Timer"
+      }
+      
+  ]

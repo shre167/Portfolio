@@ -1,0 +1,54 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": " TAILWIND CSS",
+      "imageSrc": "skills/tailwind-removebg-preview.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.png"
+      },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "Mysql",
+      "imageSrc": "skills/mysql-removebg-preview (1).png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "C",
+      "imageSrc": "skills/c-removebg-preview.png"
+    },
+    {
+        "title": "C++",
+        "imageSrc": "skills/c++-removebg-preview.png"
+      },
+      {
+        "title": "Python",
+        "imageSrc": "skills/python-removebg-preview.png"
+      },
+      {
+        "title": "Java",
+        "imageSrc": "skills/java.png"
+      },
+      {
+        "title": "Nextjs",
+        "imageSrc": "skills/nextjs-removebg-preview.png"
+      },
+      {
+        "title": "Firebase",
+        "imageSrc": "skills/firebase.png"
+      }
+  ]
